@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353744015606",
+    "firebase_url": "https://imagestore-9822c-default-rtdb.firebaseio.com",
+    "project_id": "imagestore-9822c",
+    "storage_bucket": "imagestore-9822c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353744015606:android:ab736dd477a93084975cd7",
+        "android_client_info": {
+          "package_name": "com.example.picstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353744015606-n02h8gaqhagcbpomqn25f3c4cjh0988k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPVXvEMY9yHe_GEjtF-XdwyIE13VOeiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353744015606-n02h8gaqhagcbpomqn25f3c4cjh0988k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
