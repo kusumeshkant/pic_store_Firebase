@@ -37,6 +37,7 @@ dependencies:
   flutter_inset_box_shadow:
   google_fonts:
   image_picker:
+  firebase:
   firebase_storage:
   firebase_core:
   cloud_firestore:
